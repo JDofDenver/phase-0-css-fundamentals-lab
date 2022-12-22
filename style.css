@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+a {
+  display: -moz-grid-line;
+  background: lightgray;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+nav {
+  margin-left: auto;
+  margin-right: auto;
+}
+figcaption{
+  text-size-adjust: 10px;
+  text-align: center;
+}
+p {
+  width:800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#details {
+  display:-moz-grid-line;
+  float: left;
+}
